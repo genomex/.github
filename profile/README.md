@@ -1,4 +1,5 @@
 ## Hi there 👋
+The aim of this organization is to collect the resources in bioinformatics in one place.
 
 <!--
 
